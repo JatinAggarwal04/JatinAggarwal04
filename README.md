@@ -31,40 +31,64 @@
 `jatin@github:~$ ls -la ./projects`
 
 ### `drwxr-xr-x ./TradeWise`
-> **Agentic RAG & Voting Ensemble Platform**
-> *   **Stack**: `FastAPI` `React` `Supabase` `Gemini-2.5` `FinBERT`
-> *   **Info**: Real-time market analysis with autonomous stock application.
-> *   **Links**: [ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+```bash
+# Agentic RAG & Voting Ensemble Platform
+# Stack: [FastAPI] [React] [Supabase] [Gemini-2.5] [FinBERT]
+# Info: Real-time market analysis with autonomous stock application.
+# Status: Active
+```
+[ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+
+<br>
 
 ### `drwxr-xr-x ./Invoice_Auto_Bot`
-> **Enterprise RPA Solution**
-> *   **Stack**: `UiPath` `Python` `OpenCV` `NLP` `React`
-> *   **Info**: Automated invoice processing system (Deloitte Hacksplosion Finalist).
-> *   **Links**: [ `[Source Code]` ](#)
+```bash
+# Enterprise RPA Solution
+# Stack: [UiPath] [Python] [OpenCV] [NLP] [React]
+# Info: Automated invoice processing system (Deloitte Hacksplosion Finalist).
+# Status: Archived
+```
+[ `[Source Code]` ](#)
+
+<br>
 
 ### `drwxr-xr-x ./Furniture_Rec_Engine`
-> **Semantic Search System**
-> *   **Stack**: `FastAPI` `Pinecone` `Groq` `SentenceTransformers`
-> *   **Info**: Conversational product search with LLM reasoning.
-> *   **Links**: [ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+```bash
+# Semantic Search System
+# Stack: [FastAPI] [Pinecone] [Groq] [SentenceTransformers]
+# Info: Conversational product search with LLM reasoning.
+```
+[ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+
+<br>
 
 ### `-rwxr-xr-x ./Paper2Digital.sh`
-> **Moodle Digitization Plugin**
-> *   **Stack**: `Python` `Snowflake` `LangChain` `Moodle`
-> *   **Info**: Handwriting-to-Quiz converter for educators (NatWest Finalist).
-> *   **Links**: [ `[Source Code]` ](#)
+```bash
+# Moodle Digitization Plugin
+# Stack: [Python] [Snowflake] [LangChain] [Moodle]
+# Info: Handwriting-to-Quiz converter for educators (NatWest Finalist).
+```
+[ `[Source Code]` ](#)
+
+<br>
 
 ### `drwxr-xr-x ./Exoskeleton_Control`
-> **Biosignal Processing Unit**
-> *   **Stack**: `PyTorch` `Biosignals` `PyBullet`
-> *   **Info**: 6-DoF arm control via fused EEG/EMG/EOG signals.
-> *   **Links**: [ `[Source Code]` ](#)
+```bash
+# Biosignal Processing Unit
+# Stack: [PyTorch] [Biosignals] [PyBullet]
+# Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
+```
+[ `[Source Code]` ](#)
+
+<br>
 
 ### `-rwxr--r-- ./Gunshot_Detection.py`
-> **Audio Classification Model**
-> *   **Stack**: `TensorFlow` `Librosa` `Python`
-> *   **Info**: Real-time safety system (Smart India Hackathon).
-> *   **Links**: [ `[Source Code]` ](#)
+```bash
+# Audio Classification Model
+# Stack: [TensorFlow] [Librosa] [Python]
+# Info: Real-time safety system (Smart India Hackathon).
+```
+[ `[Source Code]` ](#)
 
 <br>
 
