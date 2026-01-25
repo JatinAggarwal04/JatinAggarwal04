@@ -13,13 +13,13 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F700&center=true&vCenter=true&repeat=true&width=800&height=100&lines=root%40jatin~%23+whoami;Building+AI+Systems+That+Scale;Transforming+Ideas+Into+Production;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<h2 align="center">Building AI Systems That Scale</h2>
 
 </div>
 
----
+<br>
 
-### `$ cat ./profile.json`
+## `$ cat ./profile.json`
 ```json
 {
   "name": "Jatin Aggarwal",
@@ -36,37 +36,56 @@
 }
 ```
 
----
+<br>
 
-### `$ neofetch`
-```yaml
-                        Jatin@GitHub
-   .---.                ────────────────────────────────
-  /     \               OS        → GitHub Profile  
-  | O O |               Shell     → zsh 5.9
-  |  ^  |               Terminal  → Alacritty + Tmux
-  \  -  /               CPU       → Coffee + Dedication
-   '---'                GPU       → NVIDIA RTX 3090
-                        Memory    → 64GB Innovation
-                        
-                        Languages → Python, TypeScript, C++, JavaScript
-                        ML Stack  → PyTorch, TensorFlow, LangChain
-                        Backend   → FastAPI, Node.js, PostgreSQL
-                        Frontend  → React, Next.js, TailwindCSS
-                        DevOps    → Docker, K8s, AWS, Supabase
-                        Tools     → Pinecone, Snowflake, Redis
+## `$ neofetch`
+
+<table>
+<tr>
+<td width="30%">
+```
+      .---.
+     /     \
+     | O O |
+     |  ^  |
+     \  -  /
+      '---'
 ```
 
----
+</td>
+<td width="70%">
+```yaml
+Jatin@GitHub
+────────────────────────────────────────
+OS         → GitHub Profile
+Shell      → zsh 5.9
+Terminal   → Alacritty + Tmux
+CPU        → Coffee + Dedication
+GPU        → NVIDIA RTX 3090
+Memory     → 64GB Innovation
 
-### `$ ls -la ./tech_stack/`
+Languages  → Python, TypeScript, C++, JavaScript
+ML Stack   → PyTorch, TensorFlow, LangChain
+Backend    → FastAPI, Node.js, PostgreSQL
+Frontend   → React, Next.js, TailwindCSS
+DevOps     → Docker, K8s, AWS, Supabase
+Tools      → Pinecone, Snowflake, Redis
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `$ ls -la ./tech_stack/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### **AI/ML Engineering**
-```bash
+### **AI/ML Engineering**
+```
 ├── frameworks/
 │   ├── PyTorch
 │   ├── TensorFlow
@@ -84,8 +103,8 @@
     └── Ollama
 ```
 
-#### **Backend Development**
-```bash
+### **Backend Development**
+```
 ├── frameworks/
 │   ├── FastAPI
 │   ├── Node.js
@@ -104,8 +123,8 @@
 </td>
 <td width="50%" valign="top">
 
-#### **Frontend Development**
-```bash
+### **Frontend Development**
+```
 ├── frameworks/
 │   ├── React
 │   ├── Next.js
@@ -120,8 +139,8 @@
     └── React Query
 ```
 
-#### **DevOps & Cloud**
-```bash
+### **DevOps & Cloud**
+```
 ├── containers/
 │   ├── Docker
 │   └── Kubernetes
@@ -141,12 +160,14 @@
 </tr>
 </table>
 
----
+<br>
 
-### `$ cat ./featured_projects.sh`
+## `$ cat ./featured_projects.sh`
 
 <details open>
 <summary><b>🤖 TradeWise - Agentic Trading Platform</b></summary>
+
+<br>
 ```diff
 + Multi-agent RAG system with ensemble voting for autonomous stock analysis
 ```
@@ -156,8 +177,9 @@
 **Stack:** `FastAPI` `React` `Supabase` `Gemini-2.5` `FinBERT` `Pinecone`
 
 **Impact:**
-- 🎯 87% prediction accuracy on market sentiment
-- ⚡ Automated 10,000+ daily stock screenings
+
+- 🎯 87% prediction accuracy on market sentiment  
+- ⚡ Automated 10,000+ daily stock screenings  
 - 🚀 Real-time RAG pipeline with <2s latency
 
 **Status:** 🟢 **PRODUCTION** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
@@ -166,6 +188,8 @@
 
 <details>
 <summary><b>📄 Invoice Auto Bot - Enterprise RPA Solution</b></summary>
+
+<br>
 ```diff
 + Intelligent document processing pipeline | 🏆 Deloitte Hacksplosion Finalist
 ```
@@ -175,9 +199,10 @@
 **Stack:** `UiPath` `Python` `OpenCV` `spaCy` `React` `PostgreSQL`
 
 **Impact:**
-- 🎯 95% accuracy on invoice extraction
-- ⏱️ 93% time reduction in processing
-- 💼 Saved 200+ hours/month for enterprise clients
+
+- 🎯 95% accuracy on invoice extraction  
+- ⏱️ 93% time reduction in processing  
+- 💼 Saved 200+ hours/month for enterprise clients  
 - 🏆 Top 5 finalist at Deloitte Hackathon (500+ teams)
 
 **Status:** 🟡 **ARCHIVED** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
@@ -186,6 +211,8 @@
 
 <details>
 <summary><b>🛋️ Furniture Rec Engine - Semantic Search System</b></summary>
+
+<br>
 ```diff
 + Vector-based product search with conversational LLM reasoning
 ```
@@ -195,8 +222,9 @@
 **Stack:** `FastAPI` `Pinecone` `Groq` `SentenceTransformers` `CLIP`
 
 **Impact:**
-- ⚡ 40% faster product discovery
-- 📈 65% increase in conversion rate
+
+- ⚡ 40% faster product discovery  
+- 📈 65% increase in conversion rate  
 - 🎯 99.2% relevance score on user queries
 
 **Status:** 🟢 **ACTIVE** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
@@ -205,6 +233,8 @@
 
 <details>
 <summary><b>📝 Paper2Digital - Moodle Digitization Plugin</b></summary>
+
+<br>
 ```diff
 + Handwriting-to-Quiz converter for educators | 🏆 NatWest Finalist
 ```
@@ -214,9 +244,10 @@
 **Stack:** `Python` `Snowflake` `LangChain` `Tesseract` `Moodle API`
 
 **Impact:**
-- ⏱️ 85% time reduction for quiz creation
-- 📚 1,000+ quizzes digitized and deployed
-- 🎓 Used by 50+ educators
+
+- ⏱️ 85% time reduction for quiz creation  
+- 📚 1,000+ quizzes digitized and deployed  
+- 🎓 Used by 50+ educators  
 - 🏆 Finalist at NatWest Hackathon
 
 **Status:** 🟢 **PRODUCTION** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
@@ -225,6 +256,8 @@
 
 <details>
 <summary><b>🦾 Exoskeleton Control - Neural Interface System</b></summary>
+
+<br>
 ```diff
 + 6-DoF prosthetic control via fused biosignals (EEG/EMG/EOG)
 ```
@@ -234,9 +267,10 @@
 **Stack:** `PyTorch` `MNE-Python` `PyBullet` `ROS` `Signal Processing`
 
 **Impact:**
-- 🎯 92% gesture classification accuracy
-- ⚡ 150ms end-to-end latency
-- 📄 Published research paper
+
+- 🎯 92% gesture classification accuracy  
+- ⚡ 150ms end-to-end latency  
+- 📄 Published research paper  
 - 🤖 6 degrees of freedom control
 
 **Status:** 🔵 **RESEARCH** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
@@ -245,6 +279,8 @@
 
 <details>
 <summary><b>🔫 Gunshot Detection - Audio Classification AI</b></summary>
+
+<br>
 ```diff
 + Real-time public safety system | 🏆 Smart India Hackathon Winner
 ```
@@ -254,18 +290,19 @@
 **Stack:** `TensorFlow` `Librosa` `Python` `EdgeTPU` `Audio Processing`
 
 **Impact:**
-- 🎯 94% detection accuracy
-- ⚡ <200ms response time
-- 🏆 1st Place - Smart India Hackathon
+
+- 🎯 94% detection accuracy  
+- ⚡ <200ms response time  
+- 🏆 1st Place - Smart India Hackathon  
 - 🚨 Deployed in pilot public safety program
 
 **Status:** 🟡 **ARCHIVED** → [**Visit Site**](https://jatin-aggarwal.vercel.app)
 
 </details>
 
----
+<br>
 
-### `$ python3 achievements.py`
+## `$ python3 achievements.py`
 ```python
 class Achievements:
     def __init__(self):
@@ -297,9 +334,9 @@ print(achievement.display())
 # Output: 🏆 3 Major Hackathon Wins | 🚀 15 Deployed Projects
 ```
 
----
+<br>
 
-### `$ ./github_stats.sh --theme=matrix`
+## `$ ./github_stats.sh --theme=matrix`
 
 <div align="center">
 
@@ -313,9 +350,9 @@ print(achievement.display())
 
 </div>
 
----
+<br>
 
-### `$ tail -n 10 activity.log`
+## `$ tail -n 10 activity.log`
 ```log
 [2026-01-25 14:23:17] ✓ Deployed TradeWise v2.3.1 to production
 [2026-01-25 12:45:33] ✓ Optimized RAG pipeline - 60% latency reduction
@@ -329,9 +366,9 @@ print(achievement.display())
 [2026-01-22 20:51:37] ✓ Scaled infrastructure to handle 10K req/min
 ```
 
----
+<br>
 
-### `$ curl https://jatin-aggarwal.vercel.app/api/connect`
+## `$ curl https://jatin-aggarwal.vercel.app/api/connect`
 ```json
 {
   "status": 200,
@@ -354,12 +391,14 @@ print(achievement.display())
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://jatin-aggarwal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jatin-aggarwal.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aggarwaaljatin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-aggarwal04/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JatinAggarwal04)
 
 </div>
+
+<br>
 
 ---
 
@@ -371,7 +410,9 @@ print(achievement.display())
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40jatin~%23+exit;Goodbye!+%F0%9F%91%8B;Session+terminated." alt="Exit" />
+### `root@jatin~# exit`
+```
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JatinAggarwal04&color=00ff41&style=flat-square&label=VISITORS)
 ![GitHub Followers](https://img.shields.io/github/followers/JatinAggarwal04?style=flat-square&color=00ff41&labelColor=0d1117)
