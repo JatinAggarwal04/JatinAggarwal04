@@ -95,11 +95,11 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAggarwal04&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=JatinAggarwal04&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 🤝 **Connect With Me**
