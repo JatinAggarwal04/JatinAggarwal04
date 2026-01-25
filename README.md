@@ -37,7 +37,7 @@
 # Info: Real-time market analysis with autonomous stock application.
 # Status: Active
 ```
-[ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+
 
 <br>
 
@@ -48,7 +48,7 @@
 # Info: Automated invoice processing system (Deloitte Hacksplosion Finalist).
 # Status: Archived
 ```
-[ `[Source Code]` ](#)
+
 
 <br>
 
@@ -58,7 +58,7 @@
 # Stack: [FastAPI] [Pinecone] [Groq] [SentenceTransformers]
 # Info: Conversational product search with LLM reasoning.
 ```
-[ `[Source Code]` ](#) | [ `[Live Demo]` ](#)
+
 
 <br>
 
@@ -68,7 +68,7 @@
 # Stack: [Python] [Snowflake] [LangChain] [Moodle]
 # Info: Handwriting-to-Quiz converter for educators (NatWest Finalist).
 ```
-[ `[Source Code]` ](#)
+
 
 <br>
 
@@ -78,7 +78,7 @@
 # Stack: [PyTorch] [Biosignals] [PyBullet]
 # Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 ```
-[ `[Source Code]` ](#)
+
 
 <br>
 
@@ -88,7 +88,7 @@
 # Stack: [TensorFlow] [Librosa] [Python]
 # Info: Real-time safety system (Smart India Hackathon).
 ```
-[ `[Source Code]` ](#)
+
 
 <br>
 
