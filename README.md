@@ -53,7 +53,6 @@
 > *   **Agentic RAG**: Integrating **Google Gemini 2.5** and **FinBERT** to autonomously retrieve live stock data and analyze news sentiment.
 > *   **Voting Ensemble Model**: Engineered using **XGBoost + Random Forest** with incremental learning for high-accuracy, market-adapting trade signals.
 > *   **Tech**: FastAPI, React, Supabase, Agentic RAG.
->
 
 #### 🧾 **Automated Invoice Processing System**
 > **End-to-end RPA solution reducing manual processing time by over 90%.**
@@ -61,8 +60,6 @@
 > *   **Smart Dashboard**: Interactive **React.js** dashboard with **OpenCV** highlighting mismatches on PDFs and instant **SMTP** alerts.
 > *   **Achievement**: Finalist at **Deloitte Hacksplosion’25** for enterprise automation innovation.
 > *   **Tech**: UiPath, Python, React.js, OCR, NLP.
->
-
 
 #### 🛋️ **Furniture Recommendation System**
 > **Semantic and conversational product search engine.**
@@ -70,8 +67,6 @@
 > *   **LLM Reasoning**: Integrated **Groq** for intent understanding, query refinement, and context-aware recommendations.
 > *   **Scalability**: Designed with backend embedding pipelines and vector indexing for real-time inference.
 > *   **Tech**: FastAPI, Pinecone, LLMs, SentenceTransformers.
->
-
 
 #### 📄 **Paper2Digital Plugin**
 > **Moodle Plugin bridging the physical-digital gap in education.**
@@ -79,8 +74,6 @@
 > *   **Microservice**: Python-based service on **Snowflake** using **LangChain** and **OCR** to parse unstructured data into Moodle quizzes.
 > *   **Achievement**: Finalist at **NatWest Hack4aCause 2025**.
 > *   **Tech**: Python, Moodle, Snowflake, LangChain.
->
-
 
 #### 🦾 **Multi-Modal Biosignal Control for 6-DoF Exoskeleton Arm**
 > **Deep learning system decoding motor intent from EEG, EMG, and EOG signals.**
@@ -88,15 +81,12 @@
 > *   **Architecture**: Attention-based **LMDA-inspired models** handling 70+ channels.
 > *   **Validation**: Validated using **PyBullet** physics simulation for real-time feasibility.
 > *   **Tech**: Python, PyTorch, Biosignals, PyBullet.
->
 
 #### 🔫 **AI Gunshot Detection System (Smart India Hackathon)**
 > **Real-time audio classification system for public safety.**
 > *   **Detection**: Built using deep learning audio classification models.
 > *   **Pipeline**: End-to-end signal processing and model inference pipeline.
 > *   **Tech**: Python, Librosa, TensorFlow/PyTorch.
->
-
 
 ---
 
