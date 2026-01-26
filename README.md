@@ -6,6 +6,11 @@
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./welcome.sh
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=Hello+World!+I'm+Jatin+Aggarwal.;AI+Engineer+%7C+Full+Stack+Developer.;Ready+to+build+the+future..." alt="Typing SVG" />
+
+</div>
+
+<div align="right" style="margin-top: -30px;">
+  <img src="https://komarev.com/ghpvc/?username=JatinAggarwal04&style=flat-square&color=27C93F&label=Views" alt="Profile Views" />
 </div>
 
 <br/>
@@ -20,7 +25,8 @@
   "role": "AI Engineer & Full Stack Developer",
   "location": "Earth (Current)",
   "skills": ["Machine Learning", "Full Stack Web"],
-  "mission": "Build intelligent systems that matter"
+  "mission": "Build intelligent systems that matter",
+  "website": "https://jatinaggarwal-ja.vercel.app"
 }
 ```
 
@@ -142,11 +148,11 @@ Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 </p>
 
 <div align="left">
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./check_activity.sh
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./check_streak.sh
 </div>
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JatinAggarwal04&theme=tokyonight&utcOffset=5.5&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAggarwal04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -161,5 +167,8 @@ Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 </a>
 <a href="https://www.linkedin.com/in/jatin-aggarwal04/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://jatinaggarwal-ja.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 </p>
