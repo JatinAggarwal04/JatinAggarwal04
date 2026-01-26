@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="30" viewBox="0 0 800 30" fill="none">
+    <path d="M0 8C0 3.58172 3.58172 0 8 0H792C796.418 0 800 3.58172 800 8V30H0V8Z" fill="#2D2D2D"/>
+    <circle cx="20" cy="15" r="6" fill="#FF5F56"/>
+    <circle cx="40" cy="15" r="6" fill="#FFBD2E"/>
+    <circle cx="60" cy="15" r="6" fill="#27C93F"/>
+    <text x="400" y="20" fill="#9CA3AF" font-family="monospace" font-size="12" text-anchor="middle">jatin — -zsh</text>
+</svg>

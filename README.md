@@ -1,20 +1,34 @@
+<img src="assets/header.svg" width="100%" />
+
+<br/>
+
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=jatin@github:~$+./welcome.sh;Hello+World!+I'm+Jatin+Aggarwal.;AI+Engineer+%7C+Full+Stack+Developer.;jatin@github:~$+cat+profile.json" alt="Typing SVG" />
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./welcome.sh
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=Hello+World!+I'm+Jatin+Aggarwal.;AI+Engineer+%7C+Full+Stack+Developer.;Ready+to+build+the+future..." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="left">
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ cat profile.json
 </div>
 
 ```json
 {
   "name": "Jatin Aggarwal",
-  "role": "nothing",
+  "role": "AI Engineer & Full Stack Developer",
   "location": "Earth (Current)",
   "skills": ["Machine Learning", "Full Stack Web"],
-  "mission": "sleep"
+  "mission": "Build intelligent systems that matter"
 }
 ```
 
-<br>
+<br/>
 
-`jatin@github:~$ neofetch`
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ neofetch
+</div>
 
 ```text
        .---.        OS: GitHub Profile
@@ -26,88 +40,120 @@
                     Database: PostgreSQL, MySQL, Snowflake
 ```
 
-<br>
+<br/>
 
-`jatin@github:~$ ls -la ./projects`
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ cd projects
+   <br/>
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ls -la
+</div>
 
-### `drwxr-xr-x ./TradeWise`
-```bash
-# Agentic RAG & Voting Ensemble Platform
-# Stack: [FastAPI] [React] [Supabase] [Gemini-2.5] [FinBERT]
-# Info: Real-time market analysis with autonomous stock application.
-# Status: Active
+<br/>
+
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./TradeWise.sh --info
+</div>
+
+```yaml
+Name: TradeWise
+Type: Agentic RAG & Voting Ensemble Platform
+Stack: [FastAPI, React, Supabase, Gemini-2.5, FinBERT]
+Info: Real-time market analysis with autonomous stock application.
+Status: Active
 ```
 
+<br/>
 
-<br>
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Invoice_Auto_Bot.py --run
+</div>
 
-### `drwxr-xr-x ./Invoice_Auto_Bot`
-```bash
-# Enterprise RPA Solution
-# Stack: [UiPath] [Python] [OpenCV] [NLP] [React]
-# Info: Automated invoice processing system (Deloitte Hacksplosion Finalist).
-# Status: Archived
+```yaml
+Name: Invoice_Auto_Bot
+Type: Enterprise RPA Solution
+Stack: [UiPath, Python, OpenCV, NLP, React]
+Info: Automated invoice processing system (Deloitte Hacksplosion Finalist).
+Status: Archived
 ```
 
+<br/>
 
-<br>
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Furniture_Rec_Engine.exe
+</div>
 
-### `drwxr-xr-x ./Furniture_Rec_Engine`
-```bash
-# Semantic Search System
-# Stack: [FastAPI] [Pinecone] [Groq] [SentenceTransformers]
-# Info: Conversational product search with LLM reasoning.
+```yaml
+Name: Furniture_Rec_Engine
+Type: Semantic Search System
+Stack: [FastAPI, Pinecone, Groq, SentenceTransformers]
+Info: Conversational product search with LLM reasoning.
 ```
 
+<br/>
 
-<br>
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Paper2Digital.sh
+</div>
 
-### `-rwxr-xr-x ./Paper2Digital.sh`
-```bash
-# Moodle Digitization Plugin
-# Stack: [Python] [Snowflake] [LangChain] [Moodle]
-# Info: Handwriting-to-Quiz converter for educators (NatWest Finalist).
+```yaml
+Name: Paper2Digital
+Type: Moodle Digitization Plugin
+Stack: [Python, Snowflake, LangChain, Moodle]
+Info: Handwriting-to-Quiz converter for educators (NatWest Finalist).
 ```
 
+<br/>
 
-<br>
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ python Gunshot_Detection.py
+</div>
 
-### `drwxr-xr-x ./Exoskeleton_Control`
-```bash
-# Biosignal Processing Unit
-# Stack: [PyTorch] [Biosignals] [PyBullet]
-# Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
+```yaml
+Name: Gunshot_Detection
+Type: Audio Classification Model
+Stack: [TensorFlow, Librosa, Python]
+Info: Real-time safety system (Smart India Hackathon).
 ```
 
+<br/>
 
-<br>
+<div align="left">
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Exoskeleton_Control.bin
+</div>
 
-### `-rwxr--r-- ./Gunshot_Detection.py`
-```bash
-# Audio Classification Model
-# Stack: [TensorFlow] [Librosa] [Python]
-# Info: Real-time safety system (Smart India Hackathon).
+```yaml
+Name: Exoskeleton_Control
+Type: Biosignal Processing Unit
+Stack: [PyTorch, Biosignals, PyBullet]
+Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 ```
 
+<br/>
 
-<br>
-
-`jatin@github:~$ ./show_stats.sh --theme=tokyonight`
+<div align="left">
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ cd ..
+  <br/>
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./show_stats.sh --theme=tokyonight
+</div>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-`jatin@github:~$ ./check_activity.sh`
+<div align="left">
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./check_activity.sh
+</div>
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JatinAggarwal04&theme=tokyonight&utcOffset=5.5&hide_border=true" />
 </p>
 
-<br>
+<br/>
 
-`jatin@github:~$ echo "Connect with me"`
+<div align="left">
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ echo "Connect with me"
+</div>
 
 <p align="left">
 <a href="mailto:aggarwaaljatin@gmail.com">
