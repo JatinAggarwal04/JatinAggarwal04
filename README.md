@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dummy-matrix-rain.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
-  <!-- Replacing dummy with a known reliable matrix rain or similar tech gif if possible, otherwise using a stylized header -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-98522e86-353d-4c3d-b4cb-299f0D779184.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUGGACa7hk/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
 </div>
 
 <img src="assets/header.svg" width="100%" />
@@ -48,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br/>
@@ -162,7 +160,7 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAggarwal04&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JatinAggarwal04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
