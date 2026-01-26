@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUGGACa7hk/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dd5d529883581.560563403883a.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
 </div>
 
 <img src="assets/header.svg" width="100%" />
@@ -9,7 +9,7 @@
 <div align="left">
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./welcome.sh --mode=crazy
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=System+Breach+Detected...;Initiating+Jatin's+Profile...;Access+Granted.;Welcome+to+the+Matrix." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=700&lines=System+Breach+Detected...;Initiating+Jatin's+Profile...;Access+Granted.;Welcome+to+the+Matrix." alt="Typing SVG" />
 </div>
 
 <br/>
