@@ -1,137 +1,136 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dummy-matrix-rain.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+  <!-- Replacing dummy with a known reliable matrix rain or similar tech gif if possible, otherwise using a stylized header -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-98522e86-353d-4c3d-b4cb-299f0D779184.gif" width="100%" />
+</div>
+
 <img src="assets/header.svg" width="100%" />
 
 <br/>
 
 <div align="left">
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./welcome.sh
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./welcome.sh --mode=crazy
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=Hello+World!+I'm+Jatin+Aggarwal.;AI+Engineer+%7C+Full+Stack+Developer.;Ready+to+build+the+future..." alt="Typing SVG" />
-
-</div>
-
-<div align="right" style="margin-top: -30px;">
-  <img src="https://komarev.com/ghpvc/?username=JatinAggarwal04&style=flat-square&color=27C93F&label=Views" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=false&vCenter=false&width=500&lines=System+Breach+Detected...;Initiating+Jatin's+Profile...;Access+Granted.;Welcome+to+the+Matrix." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="left">
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ cat profile.json
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ curl https://api.jatin.dev/profile
 </div>
 
 ```json
 {
-  "name": "Jatin Aggarwal",
-  "role": "AI Engineer & Full Stack Developer",
-  "location": "Earth (Current)",
-  "skills": ["Machine Learning", "Full Stack Web"],
-  "mission": "Build intelligent systems that matter",
-  "website": "https://jatinaggarwal-ja.vercel.app"
+  "identity": "Jatin Aggarwal",
+  "archetype": "Cyber-Architect",
+  "location": "Node: Earth (Coords: Classified)",
+  "skills": ["Neural Networks", "Full Stack Systems", "Digital Alchemy"],
+  "mission": "Decrypting the future, one commit at a time.",
+  "uplink": "https://jatinaggarwal-ja.vercel.app"
 }
 ```
 
 <br/>
 
 <div align="left">
-   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ neofetch
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./random_joke.sh
 </div>
 
-```text
-       .---.        OS: GitHub Profile
-      /     \       Shell: ZSH
-      | O O |       ------------------
-      |  ^  |       Languages: Python, C++, JavaScript, TypeScript
-      \  -  /       Frameworks: FastAPI, React, Next.js, TensorFlow
-       '---'        Tools: Docker, Git, Supabase, UiPath
-                    Database: PostgreSQL, MySQL, Snowflake
-```
+<div align="left">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
 <br/>
 
 <div align="left">
-   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ cd projects
-   <br/>
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./play_snake.sh
+</div>
+
+<div align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<br/>
+
+<div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ls -la
 </div>
 
 <br/>
 
 <div align="left">
-   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./TradeWise.sh --info
+   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./TradeWise.sh --info --verbose
 </div>
 
 ```yaml
-Name: TradeWise
-Type: Agentic RAG & Voting Ensemble Platform
-Stack: [FastAPI, React, Supabase, Gemini-2.5, FinBERT]
-Info: Real-time market analysis with autonomous stock application.
-Status: Active
+[PROCESS ID: 101]
+> Name: TradeWise
+> Class: Agentic RAG & Voting Ensemble Platform
+> Tech_Stack: [FastAPI, React, Supabase, Gemini-2.5, FinBERT]
+> Payload: Real-time market analysis with autonomous stock application.
+> Status: RUNNING (Optimization Phase)
 ```
-
-<br/>
 
 <div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Invoice_Auto_Bot.py --run
 </div>
 
 ```yaml
-Name: Invoice_Auto_Bot
-Type: Enterprise RPA Solution
-Stack: [UiPath, Python, OpenCV, NLP, React]
-Info: Automated invoice processing system (Deloitte Hacksplosion Finalist).
-Status: Archived
+[PROCESS ID: 204]
+> Name: Invoice_Auto_Bot
+> Class: Enterprise RPA Solution
+> Tech_Stack: [UiPath, Python, OpenCV, NLP, React]
+> Payload: Automated invoice processing system (Deloitte Hacksplosion Finalist).
+> Status: TERMINATED (Archived)
 ```
-
-<br/>
 
 <div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Furniture_Rec_Engine.exe
 </div>
 
 ```yaml
-Name: Furniture_Rec_Engine
-Type: Semantic Search System
-Stack: [FastAPI, Pinecone, Groq, SentenceTransformers]
-Info: Conversational product search with LLM reasoning.
+[PROCESS ID: 309]
+> Name: Furniture_Rec_Engine
+> Class: Semantic Search System
+> Tech_Stack: [FastAPI, Pinecone, Groq, SentenceTransformers]
+> Payload: Conversational product search with LLM reasoning.
 ```
-
-<br/>
 
 <div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Paper2Digital.sh
 </div>
 
 ```yaml
-Name: Paper2Digital
-Type: Moodle Digitization Plugin
-Stack: [Python, Snowflake, LangChain, Moodle]
-Info: Handwriting-to-Quiz converter for educators (NatWest Finalist).
+[PROCESS ID: 412]
+> Name: Paper2Digital
+> Class: Moodle Digitization Plugin
+> Tech_Stack: [Python, Snowflake, LangChain, Moodle]
+> Payload: Handwriting-to-Quiz converter for educators (NatWest Finalist).
 ```
-
-<br/>
 
 <div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ python Gunshot_Detection.py
 </div>
 
 ```yaml
-Name: Gunshot_Detection
-Type: Audio Classification Model
-Stack: [TensorFlow, Librosa, Python]
-Info: Real-time safety system (Smart India Hackathon).
+[PROCESS ID: 501]
+> Name: Gunshot_Detection
+> Class: Audio Classification Model
+> Tech_Stack: [TensorFlow, Librosa, Python]
+> Payload: Real-time safety system (Smart India Hackathon).
 ```
-
-<br/>
 
 <div align="left">
    <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ ./Exoskeleton_Control.bin
 </div>
 
 ```yaml
-Name: Exoskeleton_Control
-Type: Biosignal Processing Unit
-Stack: [PyTorch, Biosignals, PyBullet]
-Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
+[PROCESS ID: 666]
+> Name: Exoskeleton_Control
+> Class: Biosignal Processing Unit
+> Tech_Stack: [PyTorch, Biosignals, PyBullet]
+> Payload: 6-DoF arm control via fused EEG/EMG/EOG signals.
 ```
 
 <br/>
@@ -139,12 +138,23 @@ Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 <div align="left">
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~/projects</span>$ cd ..
   <br/>
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./show_stats.sh --theme=tokyonight
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ htop
+</div>
+
+```text
+  1  [||||||||||||||||||||||| 95.0%]   Tasks: 42 total, 1 running
+  2  [|||||||||||||           45.0%]   Load average: 0.95 1.12 1.05
+  Mem[||||||||||||||||||||||| 8.2G ]   Uptime: 24 years, 5 days
+  Swp[|                       0.0K ]   
+```
+
+<div align="left">
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./show_stats.sh --mode=hacker
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <div align="left">
@@ -152,13 +162,13 @@ Info: 6-DoF arm control via fused EEG/EMG/EOG signals.
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAggarwal04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinAggarwal04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 <div align="left">
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ echo "Connect with me"
+  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ echo "Initiate Handshake"
 </div>
 
 <p align="left">
