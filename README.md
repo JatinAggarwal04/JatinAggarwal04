@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dd5d529883581.560563403883a.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1YjA2YjA5YjA5YjA5YjA5YjA5YjA5YjA5YjA5YjA5/qgQUGGACa7hk/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
 </div>
 
 <img src="assets/header.svg" width="100%" />
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake" />
+  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output-snake/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br/>

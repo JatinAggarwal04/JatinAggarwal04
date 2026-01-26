@@ -16,6 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -31,6 +34,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
+          branch: output-snake
           force: true
           directory: dist
