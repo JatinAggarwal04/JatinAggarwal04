@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake" />
 </div>
 
 <br/>
