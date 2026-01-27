@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1YjA2YjA5YjA5YjA5YjA5YjA5YjA5YjA5YjA5YjA5/qgQUGGACa7hk/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
 </div>
 
 <img src="assets/header.svg" width="100%" />
@@ -46,7 +46,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output-snake/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JatinAggarwal04/JatinAggarwal04/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
