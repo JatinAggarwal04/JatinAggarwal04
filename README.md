@@ -21,7 +21,6 @@
 ```json
 {
   "identity": "Jatin Aggarwal",
-  "archetype": "Cyber-Architect",
   "location": "Node: Earth (Coords: Classified)",
   "skills": ["Neural Networks", "Full Stack Systems", "Digital Alchemy"],
   "mission": "Decrypting the future, one commit at a time.",
