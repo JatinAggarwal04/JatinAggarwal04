@@ -162,12 +162,6 @@
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./check_streak.sh
 </div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JatinAggarwal04&theme=radical&hide_border=true&cache_seconds=86400&v=20260203" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 <div align="left">
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ echo "Initiate Handshake"
 </div>
