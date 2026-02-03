@@ -154,8 +154,8 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JatinAggarwal04&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JatinAggarwal04&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <div align="left">
@@ -163,7 +163,7 @@
 </div>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=JatinAggarwal04&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JatinAggarwal04&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <br/>
