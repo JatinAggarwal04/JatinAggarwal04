@@ -159,10 +159,6 @@
 </p>
 
 <div align="left">
-  <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ ./check_streak.sh
-</div>
-
-<div align="left">
   <span style="color: #27C93F">➜</span> <span style="color: #27C93F">jatin@github</span>:<span style="color: #0087ff">~</span>$ echo "Initiate Handshake"
 </div>
 
