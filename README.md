@@ -163,7 +163,7 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JatinAggarwal04&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JatinAggarwal04&theme=radical&hide_border=true&cache_seconds=86400&v=20260203" alt="GitHub Streak" />
 </p>
 
 <br/>
